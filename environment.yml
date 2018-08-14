@@ -5,7 +5,7 @@ channels:
 dependencies:
   - basemap
   - numpy
-  - os
-  - csv
+  - unicodecsv
   - pip:
     - matplotlib
+    - datetime
