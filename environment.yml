@@ -8,5 +8,4 @@ dependencies:
   - os
   - csv
   - pip:
-    -matplotlib
-  
+    - matplotlib
