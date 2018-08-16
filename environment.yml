@@ -6,6 +6,7 @@ dependencies:
   - basemap
   - numpy
   - unicodecsv
+  - scipy
   - pip:
     - matplotlib
     - datetime
