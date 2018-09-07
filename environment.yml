@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - basemap = 1.0.7
-  - matplotlib
+  - matplotlib = 2.0
   - numpy
   - unicodecsv
   - scipy
