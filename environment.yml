@@ -4,11 +4,11 @@ channels:
   - defaults
 dependencies:
   - basemap = 1.0.7
+  - matplotlib = 1.5.1
   - numpy
   - unicodecsv
   - scipy
   - pandas
   - pip:
-    - matplotlib = 1.5.1
     - datetime
     - nbconvert
