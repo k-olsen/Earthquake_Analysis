@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - basemap = 1.1.0
+  - basemap = 1.0.7
   - numpy
   - unicodecsv
   - scipy
