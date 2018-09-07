@@ -11,4 +11,4 @@ dependencies:
   - pandas = 0.19.0
   - pip:
     - datetime
-    - nbconvert = 4.2.0
+    - nbconvert
