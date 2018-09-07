@@ -3,12 +3,12 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - basemap = 1.0.7
-  - matplotlib = 2.0.2
-  - numpy
-  - unicodecsv
-  - scipy
-  - pandas
+  - basemap = 1.0.8
+  - matplotlib = 1.5.1
+  - numpy = 1.11.1
+  - unicodecsv = 0.14.1
+  - scipy = 0.17.1
+  - pandas = 0.19.0
   - pip:
-    - datetime
-    - nbconvert
+    - datetime = 4.2
+    - nbconvert = 4.2.0
